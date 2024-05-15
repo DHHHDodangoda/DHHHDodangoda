@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hivinhiruna69@gmailcom
-- 😄 Pronouns: his/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: You won't like me at first
 
 <!---
