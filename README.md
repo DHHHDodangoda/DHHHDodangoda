@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hivin Hiruna
 - 👀 I’m interested in (Your name) ;)
-- 🎓 I’m currently a Computer Science undergraduate
+- 🎓 I'm currently an undergraduate student majoring in Computer Science.
 - 📫 How to reach me hivinhiruna69@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You won't like me at first
