@@ -1,4 +1,4 @@
-👋 Hello, World! I'm **Hivin Hiruna**
+Hello, World! I'm **Hivin Hiruna**
 
 **Welcome to my GitHub — where curiosity meets caffeine ☕ and Python scripts occasionally work on the first try (we all dream, right?).**
 
@@ -23,5 +23,5 @@ This repo is where I:
 
 ```bash
 Languages:     Python, Java, JavaScript, SQL
-Tools:         Git, VS Code, IntelliJ IDEA,  
+Tools:         Git, VS Code, IntelliJ IDEA
 Learning:      Algorithms, OOP, Web Dev, AI Basics
