@@ -1,7 +1,5 @@
 Hello, World! I'm **Hivin Hiruna**
 
-**Welcome to my GitHub — where curiosity meets caffeine ☕ and Python scripts occasionally work on the first try (we all dream, right?).**
-
 ## About Me
 
 - I'm an undergraduate student majoring in **Computer Science**.
@@ -14,7 +12,7 @@ Hello, World! I'm **Hivin Hiruna**
 
 This repo is where I:
 
-- Experiment with new Python concepts
+- Experiment with new Programming concepts
 - Archive stuff I’ve learned (and sometimes relearn) :)
 - Write notes, solve problems, build mini projects
 - Try to turn chaos into clean, working code
